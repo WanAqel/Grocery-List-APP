@@ -12,7 +12,7 @@
     padding: 10px;
 }
 
-.list{
+.grocery{
     width: 100%;
     max-width: 540px;
     background: #fff;
@@ -21,14 +21,14 @@
     border-radius: 10px;
 }
 
-.list h2{
+.grocery h2{
     color: #002765;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
 
-.list h2 img{
+.grocery h2 img{
     width: 30px;
     height: 30px;
     margin-left: 7px;
